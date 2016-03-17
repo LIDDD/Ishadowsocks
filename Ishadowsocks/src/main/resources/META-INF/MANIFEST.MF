@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Class-Path: commons-beanutils-1.8.0.jar ezmorph-1.0.6.jar commons-coll
+ ections-3.2.1.jar json-lib-2.4-jdk15.jar commons-lang-2.5.jar jsoup-1
+ .8.3.jar commons-logging-1.1.1.jar
+Main-Class: cn.lid.App
+
